@@ -1,0 +1,1 @@
+Backend developer with Node.js, Express, SQL, unit testing, Docker.
